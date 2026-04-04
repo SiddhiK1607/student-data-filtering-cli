@@ -1,5 +1,5 @@
-# student-data-filtering-cli
-A simple Python CLI tool for filtering student records based on major and CGPA with user input.
+# student-data-filtering
+A simple Python tool for filtering student records based on major and CGPA with user input.
 A Python-based command-line interface (CLI) application designed to search and filter student records efficiently. This project demonstrates core programming concepts like list comprehensions, data structures, and user input handling.
 
 
